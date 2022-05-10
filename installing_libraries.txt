@@ -1,0 +1,20 @@
+We need the following apps to build a webapp
+1) justpy (library for building web apps and data visualization):
+pip3.9 install justpy==0.1.5
+
+2) pandas (library for data analysis):
+pip3.9 install pandas==1.2.2
+
+3) pytz (library for datetime calculations between timezones)
+pip3.9 install pytz==2021.1
+
+4) matplotlib (library for quick data visualization)
+pip3.9 install matplotlib==3.3.4
+
+jupyter (library that enables a reach interactive Python shell)
+pip3.9 install jupyter
+
+The commands above assume you are using Python 3.9
+If you are using another version of Python please change pip3.9 to reflect the other version of Python you are using (e.g.,pip3.8).
+
+
